@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 正在做的事情：
-- capsules-webpack 自己捣鼓的脚手架；
+- capsules-pack 可快速开发react项目的脚手架，支持配置自定义和项目模板、自定义模版生成；
 
 即将要做的事情：
 - capsules-particle 对组件进行描述，并建立关系；
