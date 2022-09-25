@@ -6,3 +6,5 @@
 
 即将要做的事情：
 - capsules-particle-react 根据描述，渲染出react组件；
+- capsules-doc 开发文档；
+- capsules-element 组件库
