@@ -15,4 +15,4 @@
 - capsules-doc 开发文档；
   - capsules-element 有开发基础后，开始开发；
 - capsules-element 组件库；
-  - capsule-park 完成向vite迁移后，开始开发； 
+  - capsule-pack 完成向vite迁移后，开始开发； 
