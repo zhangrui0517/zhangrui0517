@@ -16,3 +16,5 @@
   - capsules-element 有开发基础后，开始开发；
 - capsules-element 组件库；
   - capsule-pack 完成向vite迁移后，开始开发； 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhangrui0517&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
