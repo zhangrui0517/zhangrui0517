@@ -12,8 +12,6 @@
     - 暴露的实例函数对象支持增加自定义函数  
 
 即将要做的事情：
-- capsules-doc 开发文档；
-  - capsules-element 有开发基础后，开始开发；
 - capsules-element 组件库；
   - capsule-pack 完成向vite迁移后，开始开发； 
 
