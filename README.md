@@ -3,7 +3,7 @@
 正在做的事情：
 - capsules-pack 可快速开发react项目的脚手架，支持配置自定义和项目模板、自定义模版生成；
   - Doing
-    - 将webpack替换为vite
+    - 将webpack替换为vite（20%）
 - capsules-particle 对象描述解析器，为对象注入层级关系，提供对象操作方法、打平的对象字段、按遍历顺序排列的对象数组；
   - TODO
     - 将解析过程提取到web worker中
