@@ -1,6 +1,7 @@
 ### Hi there 👋
+目前正在开发capsule系列，涵盖组件库、React组件配置渲染工具等
 
-capsule，名字灵感来自七龙珠的万能胶囊，「开箱即用」。
+capsule，名字灵感来自七龙珠的万能胶囊，「开箱即用」
 
 <img src="https://github.com/zhangrui0517/imagebed/blob/main/img/capsulebox.jpeg?raw=true" width="300px"/>
 
